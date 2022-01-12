@@ -15,14 +15,12 @@ keep_files:
 
 # Site settings
 title: Raymond Zhao
-author: Raymond Zhao
-#subtitle: "this is the subtitle"
+subtitle: "Environmental & Geospatial Data Analyst"
 url: "http://rzhao621.github.io" # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-#baseurl: "/airspace-jekyll"
+#baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: ""
 cover: "/assets/cover.png"
-avatar: /assets/pfp.png
-#logo: "/assets/logo.png"
+logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
