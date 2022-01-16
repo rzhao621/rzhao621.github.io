@@ -1,6 +1,7 @@
-# _Airspace_ for Jekyll
-Welcome to the GitHub repository for my website! I built off of a Jekyll template called "Airspace" by Themefisher. Check the instructions out down below if you also want to use this theme an don't forget to give credit to them!
+# Hello!
+Welcome to the GitHub repository for my website :) I built off of a Jekyll template called "Airspace" by Themefisher. Check the instructions out down below if you also want to use this theme an don't forget to give credit to them!
 
+## _Airspace_ for Jekyll
 ![screenshot](screenshots/home.png "Description goes here")
 
 This Jekyll theme is a port of [ThemeFisher's](https://themefisher.com) [Airspace template](https://themefisher.com/products/airspace-free-bootstrap-website-template/). It is released under ThemeFisher's [license](https://themefisher.com/license) , which requires attribution. Concern about the licnese please contact with [them](mailto:themefisher@gmail.com)
