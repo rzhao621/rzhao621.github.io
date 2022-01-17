@@ -1,5 +1,5 @@
 # Hello!
-Welcome to the GitHub repository for my website :) I built off of a Jekyll template called "Airspace" by Themefisher. Check the instructions out down below if you also want to use this theme an don't forget to give credit to them!
+Welcome to the GitHub repository for my website :) I built off of a Jekyll template called "Airspace" by Themefisher. Check the instructions out down below if you also want to use this theme and don't forget to give credit to them!
 
 ## _Airspace_ for Jekyll
 ![screenshot](screenshots/home.png "Description goes here")
