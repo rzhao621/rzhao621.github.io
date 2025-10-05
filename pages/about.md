@@ -4,6 +4,10 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# A Little About Me!
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+My name is Raymond and I'm an evironemntalist who's passionate about accelerating the clean energy transition through data science. In 2022, I graduated from Yale University with a B.S. in Earth and Planetary Sciences (concentration: energy and environment). I'm currently a data analyst at Ivy Energy, a software startup transforming clean energy delivery within the multifamily housing space.
+
+During my free time, you may find me cooking/hosting dinner parties, taking shots around town with my film camera, performing in a lion (yes :lion:, not line) dance show, or jamming out to songs on the piano/guitar with friends.
+
+I’m always eager to connect with others working at the intersection of data and decarbonization. If these topics interest you, let’s [chat](/contact)!

@@ -21,11 +21,9 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'github',    link: 'https://github.com/rzhao621'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/r-zhao/'}
+- {icon: 'envelope',  link: 'mailto:mailto:raymondzhao621@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -35,9 +33,14 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  title: "Raymond Zhao Data Portfolio"
+  description: "Showcasing data science projects, visualizations, and blog posts by Raymond Zhao."
+  keywords: "data science, portfolio, Raymond Zhao, visualization, analytics"
+  author: "Raymond Zhao"
+  image: "/assets/img/profile.jpg" # Update with your actual image path if available
+  twitter_username: "your_twitter" # Replace with your Twitter handle, or remove if not used
+  github_username: "rzhao621"
+  email: "raymondzhao621@gmail.com"
 
 #-------------------------------
 # Google Analytics Section
@@ -48,7 +51,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: ''
 
 #-------------------------------
 # Disqus Section
