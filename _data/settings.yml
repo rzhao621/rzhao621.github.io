@@ -23,7 +23,7 @@ projects:
 social:
 - {icon: 'github',    link: 'https://github.com/rzhao621'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/r-zhao/'}
-- {icon: 'envelope',  link: 'mailto:mailto:raymondzhao621@gmail.com'}
+- {icon: 'envelope',  link: 'mailto:raymondzhao621@gmail.com?subject=Hello%20Raymond&body=Hi%20Raymond%2C%0A%0AI%20found%20your%20portfolio%20and%20would%20love%20to%20connect!'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -37,8 +37,6 @@ seo:
   description: "Showcasing data science projects, visualizations, and blog posts by Raymond Zhao."
   keywords: "data science, portfolio, Raymond Zhao, visualization, analytics"
   author: "Raymond Zhao"
-  image: "/assets/img/profile.jpg" # Update with your actual image path if available
-  twitter_username: "your_twitter" # Replace with your Twitter handle, or remove if not used
   github_username: "rzhao621"
   email: "raymondzhao621@gmail.com"
 
